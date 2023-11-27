@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <h1>asdasdas</h1>
-      <img src="image/download.png" alt="" />
+      <img src="public/image/download.png" alt="" />
     </>
   )
 }
